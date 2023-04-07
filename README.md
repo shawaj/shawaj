@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![My GitHub](https://github-readme-stats.vercel.app/api?username=shawaj&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/shawaj)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawaj&theme=transparent&count_private=true&show_icons=true)](https://github.com/shawaj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawaj&theme=transparent&count_private=true&show_icons=true&layout=compact)](https://github.com/shawaj)
